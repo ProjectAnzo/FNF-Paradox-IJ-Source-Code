@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo paradoxz instance 10000" x="70" y="70" width="584" height="499" frameX="-21" frameY="-6" frameWidth="625" frameHeight="533"/>
+	<SubTexture name="logo paradoxz instance 10001" x="70" y="70" width="584" height="499" frameX="-21" frameY="-6" frameWidth="625" frameHeight="533"/>
+	<SubTexture name="logo paradoxz instance 10002" x="732" y="70" width="625" height="533"/>
+	<SubTexture name="logo paradoxz instance 10003" x="732" y="70" width="625" height="533"/>
+	<SubTexture name="logo paradoxz instance 10004" x="70" y="681" width="601" height="513" frameX="-11" frameY="0" frameWidth="625" frameHeight="533"/>
+	<SubTexture name="logo paradoxz instance 10005" x="70" y="681" width="601" height="513" frameX="-11" frameY="0" frameWidth="625" frameHeight="533"/>
+	<SubTexture name="logo paradoxz instance 10006" x="749" y="681" width="594" height="507" frameX="-14" frameY="0" frameWidth="625" frameHeight="533"/>
+	<SubTexture name="logo paradoxz instance 10007" x="749" y="681" width="594" height="507" frameX="-14" frameY="0" frameWidth="625" frameHeight="533"/>
+	<SubTexture name="logo paradoxz instance 10008" x="749" y="681" width="594" height="507" frameX="-14" frameY="0" frameWidth="625" frameHeight="533"/>
+	<SubTexture name="logo paradoxz instance 10009" x="749" y="681" width="594" height="507" frameX="-14" frameY="0" frameWidth="625" frameHeight="533"/>
+</TextureAtlas>
