@@ -267,7 +267,7 @@ class TitleState extends MusicBeatState
 			}
 		}
 
-		Conductor.changeBPM(titleJSON.bpm);
+		Conductor.changeBPM(105);
 		persistentUpdate = true;
 
 		var bg:FlxSprite = new FlxSprite();
@@ -287,7 +287,7 @@ class TitleState extends MusicBeatState
 		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
 
 		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
-		logoBl.animation.addByPrefix('bump', 'logo paradoxz instance ', 24, false);
+		logoBl.animation.addByPrefix('bump', 'logo paradoxz', 24, false);
 		logoBl.animation.play('bump');
 		logoBl.screenCenter(X);
 		logoBl.screenCenter(Y);
